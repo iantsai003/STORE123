@@ -1,0 +1,215 @@
+[
+  {
+    "userId": 10,
+    "products": [
+      {
+        "id": 7,
+        "name": "松鼠",
+        "price": 500,
+        "imageUrl": "/uploads/1744439302160.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 500
+      }
+    ],
+    "totalPrice": 500,
+    "date": "2025-04-12T06:34:49.161Z"
+  },
+  {
+    "userId": 11,
+    "products": [
+      {
+        "id": 7,
+        "name": "松鼠",
+        "price": 500,
+        "imageUrl": "/uploads/1744439302160.jpg",
+        "quantity": 3,
+        "itemTotalPrice": 1500
+      }
+    ],
+    "totalPrice": 1500,
+    "date": "2025-04-12T09:58:03.637Z"
+  },
+  {
+    "userId": 11,
+    "products": [
+      {
+        "id": 5,
+        "name": "邊牧",
+        "price": 10000,
+        "imageUrl": "/uploads/1744439300685.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 10000
+      },
+      {
+        "id": 6,
+        "name": "貓",
+        "price": 6500,
+        "imageUrl": "/uploads/1744439301565.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 6500
+      }
+    ],
+    "totalPrice": 16500,
+    "date": "2025-04-12T09:58:11.709Z"
+  },
+  {
+    "userId": 14,
+    "products": [
+      {
+        "id": 7,
+        "name": "松鼠",
+        "price": 500,
+        "imageUrl": "/uploads/1744439302160.jpg",
+        "quantity": 2,
+        "itemTotalPrice": 1000
+      },
+      {
+        "id": 1,
+        "name": "大麥克",
+        "price": 100,
+        "imageUrl": "/uploads/1744439297864.jpg",
+        "quantity": 2,
+        "itemTotalPrice": 200
+      }
+    ],
+    "totalPrice": 1200,
+    "date": "2025-04-12T10:14:42.712Z"
+  },
+  {
+    "userId": 15,
+    "products": [
+      {
+        "id": 21,
+        "name": "松鼠",
+        "price": 500,
+        "imageUrl": "/uploads/1744468635856.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 500
+      }
+    ],
+    "totalPrice": 500,
+    "date": "2025-04-12T14:41:32.228Z"
+  },
+  {
+    "userId": 19,
+    "products": [
+      {
+        "id": 14,
+        "name": "松鼠",
+        "price": 500,
+        "imageUrl": "/uploads/1744480246943.jpg",
+        "quantity": 8,
+        "itemTotalPrice": 4000
+      }
+    ],
+    "totalPrice": 4000,
+    "date": "2025-04-12T17:58:03.381Z"
+  },
+  {
+    "userId": 20,
+    "products": [
+      {
+        "id": 14,
+        "name": "松鼠",
+        "price": 500,
+        "imageUrl": "/uploads/1744480246943.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 500
+      }
+    ],
+    "totalPrice": 500,
+    "date": "2025-04-12T18:01:06.391Z"
+  },
+  {
+    "userId": 21,
+    "products": [
+      {
+        "id": 7,
+        "name": "松鼠",
+        "price": 500,
+        "imageUrl": "/uploads/1744526859640.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 500
+      }
+    ],
+    "totalPrice": 500,
+    "date": "2025-04-13T06:48:30.312Z"
+  },
+  {
+    "userId": 21,
+    "products": [
+      {
+        "id": 6,
+        "name": "貓",
+        "price": 6500,
+        "imageUrl": "/uploads/1744526859531.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 6500
+      },
+      {
+        "id": 5,
+        "name": "邊牧",
+        "price": 10000,
+        "imageUrl": "/uploads/1744526859470.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 10000
+      },
+      {
+        "id": 4,
+        "name": "一千塊",
+        "price": 1999,
+        "imageUrl": "/uploads/1744526859424.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 1999
+      },
+      {
+        "id": 3,
+        "name": "梅花鹿",
+        "price": 5000,
+        "imageUrl": "/uploads/1744526859348.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 5000
+      }
+    ],
+    "totalPrice": 23499,
+    "date": "2025-04-13T06:48:48.927Z"
+  },
+  {
+    "userId": 21,
+    "products": [
+      {
+        "id": 1,
+        "name": "大麥克",
+        "price": 100,
+        "imageUrl": "/uploads/1744526859201.jpg",
+        "quantity": 100,
+        "itemTotalPrice": 10000
+      }
+    ],
+    "totalPrice": 10000,
+    "date": "2025-04-13T07:14:34.872Z"
+  },
+  {
+    "userId": 23,
+    "products": [
+      {
+        "id": 1,
+        "name": "大麥克",
+        "price": 100,
+        "imageUrl": "/uploads/1744526859201.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 100
+      },
+      {
+        "id": 7,
+        "name": "松鼠",
+        "price": 500,
+        "imageUrl": "/uploads/1744526859640.jpg",
+        "quantity": 1,
+        "itemTotalPrice": 500
+      }
+    ],
+    "totalPrice": 600,
+    "date": "2025-04-13T08:41:53.322Z"
+  }
+]
